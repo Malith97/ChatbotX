@@ -23,7 +23,7 @@ The program requires the following dependencies (easy to install using pip: `pip
 
 ### Web interface
 
-I just provide a web interface with code. you can change this web interface anytime just changing the code inside template folder.
+I just provide a web interface with code. you can change this web interface anytime just changing the code inside template folder
 
 ## Run
     
