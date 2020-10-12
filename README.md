@@ -39,7 +39,7 @@ I just provide a web interface with code. you can change this web interface anyt
     A: Hello.
 
     Q: How are you ?
-    A: I am on the Internet..
+    A: I am on the Internet...
 
     Q: are you fight? ?
     A: I am not a battle bot...
