@@ -2,7 +2,7 @@
 
 This is a Simple Chatbot. A Chatbot is a program simulates a conversation between a user and a computer
 
-This is the python for [this](https://youtu.be/tSjR7bk1Y9U)  video on Youtube by Edureka on Chatbot. 
+This is the python for [this](https://youtu.be/tSjR7bk1Y9U)  video on Youtube by Edureka on Chatbot 
 
 #### Table of Contents
 
