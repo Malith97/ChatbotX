@@ -51,5 +51,5 @@ I just provide a web interface with code. you can change this web interface anyt
     A: No.
 
     Q: are you bored?
-    A: Bots like myself are not able to feel boredom.
+    A: Bots like myself are not able to feel boredom..
 
